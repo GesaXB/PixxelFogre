@@ -55,5 +55,34 @@
     </section>
       @livewire('projek-list')
   </section>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-section footer-left">
+        <h2 class="footer-title">Pixxel <strong>Forge</strong></h2>
+        <p class="footer-tagline">Creative Agency</p>
+        <div class="footer-social">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+    </div>
+
+    <div class="footer-section footer-center">
+        <h3>Pixxel Forge</h3>
+        <ul>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Layanan</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </div>
+
+    <div class="footer-section footer-right">
+        <h3>Contact</h3>
+        <p><i class="fas fa-envelope"></i> geishalutfian@gmail.com</p>
+        <p><i class="fas fa-phone"></i> +62 82241279426</p>
+        <p><i class="fas fa-map-marker-alt"></i> Banyumas</p>
+    </div>
+</footer>
 </body>
 </html>
